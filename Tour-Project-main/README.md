@@ -1,7 +1,7 @@
 # Tour-Project
 Tour &amp; Travel Project (Using Html, Css, Php, Javascript).
 
-Here I used <b>Html, Css & javascript</b> To create the front end part of the website and for storing the Contact Information in the Database we used <b>php</b> as a backend language.
+Here I used <b> Html, Css & javascript</b> To create the front end part of the website and for storing the Contact Information in the Database we used <b>php</b> as a backend language.
 
 The HomePage of the Website is with<b> main.html</b> file.
 
@@ -19,9 +19,6 @@ Designed sections with background images, text styles, and button interactions t
 Used media queries to ensure the design is responsive and looks good on different screen sizes, including tablets and smartphones.
 Additional Elements:
 
-Integrated Font Awesome and Iconscout for icons to improve the user interface.
-Utilized CSS grid and flexbox for layout design, making the site adaptable to various screen sizes.
-This approach ensures that the website is both visually appealing and functional, providing an excellent user experience for visitors looking for travel and adventure information.
 -------------------------------------------------------------------------------------------------------------------------------------------------
 
 
