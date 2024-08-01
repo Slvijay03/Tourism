@@ -17,7 +17,6 @@ Applied a global style with a Poppins font for a clean look and consistency.
 Styled the header, navigation, and footer with fixed positioning and responsive design.
 Designed sections with background images, text styles, and button interactions to enhance visual appeal.
 Used media queries to ensure the design is responsive and looks good on different screen sizes, including tablets and smartphones.
-Additional Elements:
 
 -------------------------------------------------------------------------------------------------------------------------------------------------
 
